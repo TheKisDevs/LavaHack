@@ -19,22 +19,22 @@ LavaHack is a paid minecraft forge 1.12.2 utility mod made by [TheKisDevs inc](h
 - [**Skarlord99**](https://github.com/Skarlord991) - Developer
 
 ## Credits
-- **StupitDog** - Guide of the client base
+- **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
 - **BigJ** - Cool helper
 - **Vega** - Jesus -> Matrix/Solid & VegaGui
 - **Kshk** - Cool helper x2
 - **salam4ik** - JumpCircle :>
 - **Fendy** - BowExploit
-- **Neko+** - First color picker
+- **[Neko+](https://github.com/kisman2000/NekoPlus)** - First color picker
 - **SalHack/CreepySalHack** - First AutoCrystal and AutoCrystalBypass
 - **ezhik** - Cool helper
-- **kqllqk** - First custom font
+- **[kqllqk](https://github.com/kqlqk/)** - First custom font
 - [**NoRules**](https://vk.com/nrclient) - Second custom font
 - **sedza** - Second logo of the client
 - **superblauberee27** - Base of the CsGoGui
 - **Phobos 1.9.0** - RangeVisualisator
 - **Phobos 1.3.1** - ShaderCharms -> Mode -> ITEMGLOW
-- **rerhack.club** - yes?
+- **[rerhack.club](https://github.com/BigJayMuffinSkidsShit/RerHack.club)** - yes?
 - [**Halq**](https://github.com/Halqq) - Aurora :3
 - [**KamiBlue**](https://github.com/kami-blue/) - EyeFinder
 - **GishCode** - i forgot xd
