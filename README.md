@@ -15,8 +15,8 @@ LavaHack is a paid minecraft forge 1.12.2 utility mod made by [TheKisDevs inc](h
 ## Staff
 - [**\_kisman_**](https://github.com/kisman2000) - Creator and Lead Developer
 - [**PunCakeCat**](https://github.com/PunCakeCat) - Second Lead Developer
-- [**PunCakeCat**](https://github.com/Halqq) - Developer
-- [**PunCakeCat**](https://github.com/Skarlord991) - Developer
+- [**Halq**](https://github.com/Halqq) - Developer
+- [**Skarlord99**](https://github.com/Skarlord991) - Developer
 
 ## Credits
 - **StupitDog** - Guide of the client base
