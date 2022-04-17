@@ -25,7 +25,7 @@ Latest release: **b0.1.5**
 ## Credits
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
 - **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2
-- **[BloomWare](https://github.com/TheBreakery/Bloomware)** - BetterScreenshot
+- **[BloomWare](https://github.com/TheBreakery/Bloomware)** - BetterScreenshot & DDOSModule(StopWar from BloomWare)
 - **[Konas](https://konasclient.com/)** - HoleESP -> Mode -> Konas
 - **BigJ** - Cool helper
 - **Vega** - Jesus -> Matrix/Solid & VegaGui
