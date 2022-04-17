@@ -7,6 +7,10 @@ LavaHack is a paid minecraft forge 1.12.2 utility mod made by [TheKisDevs inc](h
 
 [Discord Server](https://discord.gg/NNn7WXfkNB)
 
+Current version: **b0.1.6.4 beta**
+
+Latest release: **b0.1.5**
+
 ## How to buy
 1) Join [Discord](https://discord.gg/NNn7WXfkNB)
 2) Create ticket in `#create-ticket` channet about the purchase
