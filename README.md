@@ -22,6 +22,7 @@ LavaHack is a paid minecraft forge 1.12.2 utility mod made by [TheKisDevs inc](h
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
 - **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2
 - **[BloomWare](https://github.com/TheBreakery/Bloomware)** - BetterScreenshot
+- **[Konas](https://konasclient.com/)** - HoleESP -> Mode -> Konas
 - **BigJ** - Cool helper
 - **Vega** - Jesus -> Matrix/Solid & VegaGui
 - **Kshk** - Cool helper x2
