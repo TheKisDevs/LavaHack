@@ -50,3 +50,4 @@ Latest release: **b0.1.5**
 - [**XuluPlus**](https://discord.gg/cenXRGfvRY) - mode shaders!
 - [**FDPClient**](https://github.com/UnlegitMC/FDPClient) - ShaderCharms -> Mode -> GLOW
 - **Krimk** - First state of the new logo of the client
+- **zPrestige_** - 5b5t teleport exploit
