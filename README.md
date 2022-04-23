@@ -21,8 +21,11 @@ Latest release: **b0.1.5**
 - [**PunCakeCat**](https://github.com/PunCakeCat) - Second Lead Developer
 - [**Halq**](https://github.com/Halqq) - Developer
 - [**Skarlord99**](https://github.com/Skarlord991) - Developer
+- [**Cubic**](https://github.com/Cuubicc) - Developer
+- **Gentleman** - Developer
 
 ## Credits
+- **[Cubic](https://github.com/Cuubicc)** - Class loader lib
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
 - **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2
 - **[BloomWare](https://github.com/TheBreakery/Bloomware)** - BetterScreenshot & DDOSModule(StopWar from BloomWare)
