@@ -12,6 +12,7 @@ Current version: **b0.1.6.4 beta**
 Latest release: **b0.1.5**
 
 Cost of TheClient: **18$**
+
 Cost of beta versions ofTheClient: **25$**
 
 ## How to buy
