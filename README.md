@@ -13,7 +13,7 @@ Latest release: **b0.1.5**
 
 Cost of TheClient: **18$**
 
-Cost of beta versions ofTheClient: **25$**
+Cost of beta versions of TheClient: **25$**
 
 ## How to buy
 1) Join [Discord](https://discord.gg/NNn7WXfkNB)
