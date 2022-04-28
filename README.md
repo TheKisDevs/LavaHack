@@ -17,7 +17,7 @@ Cost of beta versions of TheClient: **25$**
 
 ## How to buy
 1) Join [Discord](https://discord.gg/NNn7WXfkNB)
-2) Create ticket in `#create-ticket` channet about the purchase
+2) Create ticket in `#create-ticket` channel about the purchase
 3) Buy TheClient!
 
 ## Staff
@@ -41,7 +41,7 @@ Cost of beta versions of TheClient: **25$**
 - **Fendy** - BowExploit
 - **[Neko+](https://github.com/kisman2000/NekoPlus)** - First color picker
 - **SalHack/CreepySalHack** - First AutoCrystal and AutoCrystalBypass
-- **ezhik** - Cool helper
+- **ezhik** - Cool helper x3
 - **[kqllqk](https://github.com/kqlqk/)** - First custom font
 - [**NoRules**](https://vk.com/nrclient) - Second custom font
 - **sedza** - Second logo of the client
@@ -54,7 +54,7 @@ Cost of beta versions of TheClient: **25$**
 - **GishCode** - i forgot xd
 - [**Cattyn**](https://github.com/cattyngmd/) - Help me with CatLua
 - [**Ferret**](https://github.com/cattyngmd/Ferret) - CatLua
-- [**XuluPlus**](https://discord.gg/cenXRGfvRY) - mode shaders!
+- [**XuluPlus**](https://discord.gg/cenXRGfvRY) - more shaders!
 - [**FDPClient**](https://github.com/UnlegitMC/FDPClient) - ShaderCharms -> Mode -> GLOW
 - **Krimk** - First state of the new logo of the client
 - **zPrestige_** - 5b5t teleport exploit
