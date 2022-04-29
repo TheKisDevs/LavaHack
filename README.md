@@ -30,7 +30,7 @@ Cost of beta versions of TheClient: **25$**
 - [**lava_frai**](https://github.com/lavaFrai) - Developer
 
 ## Credits
-- **[Cubic](https://github.com/Cuubicc)** - URL Class Instance Loader Library
+- **[Cubic](https://github.com/Cuubicc)** - UCILL (URL Class Instance Loader Library)
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
 - **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2
 - **[BloomWare](https://github.com/TheBreakery/Bloomware)** - BetterScreenshot & DDOSModule(StopWar from BloomWare)
@@ -43,8 +43,8 @@ Cost of beta versions of TheClient: **25$**
 - **[Neko+](https://github.com/kisman2000/NekoPlus)** - First color picker
 - **SalHack/CreepySalHack** - First AutoCrystal and AutoCrystalBypass
 - **ezhik** - Cool helper x3
-- **[kqllqk](https://github.com/kqlqk/)** - First custom font
-- [**NoRules**](https://vk.com/nrclient) - Second custom font
+- **[kqllqk](https://github.com/kqlqk/)** - First custom font loader
+- [**NoRules**](https://vk.com/nrclient) - Second custom font loader
 - **sedza** - Second logo of the client
 - **superblauberee27** - Base of the CsGoGui
 - **Phobos 1.9.0** - RangeVisualisator
@@ -52,10 +52,10 @@ Cost of beta versions of TheClient: **25$**
 - **[rerhack.club](https://github.com/BigJayMuffinSkidsShit/RerHack.club)** - yes?
 - [**Halq**](https://github.com/Halqq) - Aurora :3
 - [**KamiBlue**](https://github.com/kami-blue/) - EyeFinder
-- **GishCode** - i forgot xd
+- **GishCode** - HudEditor -> LogoMode -> GishCode
 - [**Cattyn**](https://github.com/cattyngmd/) - Help me with CatLua
 - [**Ferret**](https://github.com/cattyngmd/Ferret) - CatLua
 - [**XuluPlus**](https://discord.gg/cenXRGfvRY) - more shaders!
 - [**FDPClient**](https://github.com/UnlegitMC/FDPClient) - ShaderCharms -> Mode -> GLOW
-- **Krimk** - First state of the new logo of the client
+- **Krimk** - First state of thigh logo of the client
 - **zPrestige_** - 5b5t teleport exploit
