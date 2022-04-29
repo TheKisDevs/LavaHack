@@ -22,10 +22,10 @@ Cost of beta versions of TheClient: **25$**
 
 ## Staff
 - [**\_kisman_**](https://github.com/kisman2000) - Creator and Lead Developer
-- [**PunCakeCat**](https://github.com/PunCakeCat) - Second Lead Developer
+- [**Cubic**](https://github.com/Cuubicc) - Second Lead Developer
+- [**PunCakeCat**](https://github.com/PunCakeCat) - Developer
 - [**Halq**](https://github.com/Halqq) - Developer
 - [**Skarlord99**](https://github.com/Skarlord991) - Developer
-- [**Cubic**](https://github.com/Cuubicc) - Developer
 - [**Gentleman**](https://github.com/GentlemanMC) - Developer
 - [**lava_frai**](https://github.com/lavaFrai) - Developer
 
