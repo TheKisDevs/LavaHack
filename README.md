@@ -26,7 +26,8 @@ Cost of beta versions of TheClient: **25$**
 - [**Halq**](https://github.com/Halqq) - Developer
 - [**Skarlord99**](https://github.com/Skarlord991) - Developer
 - [**Cubic**](https://github.com/Cuubicc) - Developer
-- **Gentleman** - Developer
+- [**Gentleman**](https://github.com/GentlemanMC) - Developer
+- [**lava_frai**](https://github.com/lavaFrai) - Developer
 
 ## Credits
 - **[Cubic](https://github.com/Cuubicc)** - URL Class Instance Loader Library
