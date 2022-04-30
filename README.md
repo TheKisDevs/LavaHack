@@ -60,4 +60,4 @@ Cost of beta versions of TheClient: **25$**
 - [**FDPClient**](https://github.com/UnlegitMC/FDPClient) - ShaderCharms -> Mode -> GLOW
 - **Krimk** - First state of third logo of the client
 - **zPrestige_** - 5b5t teleport exploit
-- -**Europa** - meow?
+- **Europa** - meow?
