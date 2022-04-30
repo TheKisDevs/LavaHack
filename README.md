@@ -58,5 +58,5 @@ Cost of beta versions of TheClient: **25$**
 - [**Ferret**](https://github.com/cattyngmd/Ferret) - CatLua
 - [**XuluPlus**](https://discord.gg/cenXRGfvRY) - more shaders!
 - [**FDPClient**](https://github.com/UnlegitMC/FDPClient) - ShaderCharms -> Mode -> GLOW
-- **Krimk** - First state of thigh logo of the client
+- **Krimk** - First state of third logo of the client
 - **zPrestige_** - 5b5t teleport exploit
