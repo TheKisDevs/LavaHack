@@ -30,6 +30,7 @@ Cost of beta versions of TheClient: **25$**
 - [**lava_frai**](https://github.com/lavaFrai) - Developer
 
 ## Credits
+- **[gerald0ms](https://github.com/gerald)** - AntiRegear
 - **[Cubic](https://github.com/Cuubicc)** - UCILL (URL Class Instance Loader Library)
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
 - **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2
