@@ -3,7 +3,7 @@
 # 🛠️ LavaHack
 LavaHack aka kisman.cc aka kidman.club aka TheKisDevs aka TheClient
 
-LavaHack is a paid minecraft forge 1.12.2 utility mod made by [TheKisDevs inc](https://github.com/TheKisDevs/).
+LavaHack is a private minecraft utility mod for forge 1.12.2 made by [TheKisDevs inc](https://github.com/TheKisDevs/).
 
 [Discord Server](https://discord.gg/NNn7WXfkNB)
 
@@ -11,14 +11,10 @@ Current version: **b0.1.6.5 beta**
 
 Latest release: **b0.1.5**
 
-Cost of TheClient: **18$**
-
-Cost of beta versions of TheClient: **25$**
-
-## How to buy
+## How to get TheClient
 1) Join [Discord](https://discord.gg/NNn7WXfkNB)
-2) Create ticket in `#create-ticket` channel about the purchase
-3) Buy TheClient!
+2) Check `#how-to-get-client` channel
+3) Get TheClient!
 
 ## Staff
 - [**\_kisman_**](https://github.com/kisman2000) - Creator and Lead Developer
