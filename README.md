@@ -38,7 +38,7 @@ Latest release: **b0.1.5**
 - **salam4ik** - JumpCircle :>
 - **Fendy** - BowExploit
 - **[Neko+](https://github.com/kisman2000/NekoPlus)** - First color picker
-- **SalHack/CreepySalHack** - First AutoCrystal and AutoCrystalBypass
+- **SalHack/CreepySalHack** - First AutoCrystal and AutoCrystalBypass, First Scaffold
 - **ezhik** - Cool helper x3
 - **[kqllqk](https://github.com/kqlqk/)** - First custom font loader
 - [**NoRules**](https://vk.com/nrclient) - Second custom font loader
@@ -50,7 +50,7 @@ Latest release: **b0.1.5**
 - [**Halq**](https://github.com/Halqq) - Aurora :3
 - [**KamiBlue**](https://github.com/kami-blue/) - EyeFinder
 - **GishCode** - HudEditor -> LogoMode -> GishCode
-- [**Cattyn**](https://github.com/cattyngmd/) - Help me with CatLua
+- [**Cattyn**](https://github.com/cattyngmd/) - Helps me with CatLua
 - [**Ferret**](https://github.com/cattyngmd/Ferret) - CatLua
 - [**XuluPlus**](https://discord.gg/cenXRGfvRY) - more shaders!
 - [**FDPClient**](https://github.com/UnlegitMC/FDPClient) - ShaderCharms -> Mode -> GLOW
