@@ -57,3 +57,5 @@ Latest release: **b0.1.5**
 - **Krimk** - First state of third logo of the client
 - **zPrestige_** - 5b5t teleport exploit
 - **Europa** - meow?
+- [**Inertia**](https://inetriaclient.com) - ShaderCharms -> Mode -> InertiaOutline
+- **InGameAccountSwincher** - Microsoft auth
