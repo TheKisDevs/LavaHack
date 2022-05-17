@@ -38,7 +38,7 @@ Latest release: **b0.1.5**
 - **salam4ik** - JumpCircle :>
 - **Fendy** - BowExploit
 - **[Neko+](https://github.com/kisman2000/NekoPlus)** - First color picker
-- **SalHack/CreepySalHack** - First AutoCrystal and AutoCrystalBypass, First Scaffold
+- **[SalHack](https://github.com/ionar2/spidermod)/[CreepySalHack](https://github.com/ionar2/spidermod)** - First AutoCrystal and AutoCrystalBypass, First Scaffold
 - **ezhik** - Cool helper x3
 - **[kqllqk](https://github.com/kqlqk/)** - First custom font loader
 - [**NoRules**](https://vk.com/nrclient) - Second custom font loader
