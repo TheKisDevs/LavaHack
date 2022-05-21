@@ -26,6 +26,7 @@ Latest release: **b0.1.5**
 - [**lava_frai**](https://github.com/lavaFrai) - Developer
 
 ## Credits
+- **zTerrarxd_** - Music
 - **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console
 - **[Cubic](https://github.com/Cuubicc)** - UCILL (URL Class Instance Loader Library)
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
