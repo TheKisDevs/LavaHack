@@ -27,7 +27,7 @@ Latest release: **b0.1.5**
 
 ## Credits
 - **zTerrarxd_** - Music
-- **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console
+- **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console & NoRender -> Sway
 - **[Cubic](https://github.com/Cuubicc)** - UCILL (URL Class Instance Loader Library)
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
 - **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2
