@@ -27,19 +27,18 @@ Latest release: **b0.1.5**
 
 ## Credits
 - **zTerrarxd_** - Music
-- **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console
+- **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console & NoRender -> Sway
 - **[Cubic](https://github.com/Cuubicc)** - UCILL (URL Class Instance Loader Library)
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
 - **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2
 - **[BloomWare](https://github.com/TheBreakery/Bloomware)** - BetterScreenshot & DDOSModule(StopWar from BloomWare)
 - **[Konas](https://konasclient.com/)** - HoleESP -> Mode -> Konas
-- **BigJ** - Cool helper
 - **Vega** - Jesus -> Matrix/Solid & VegaGui
 - **Kshk** - Cool helper x2
 - **salam4ik** - JumpCircle :>
 - **Fendy** - BowExploit
 - **[Neko+](https://github.com/kisman2000/NekoPlus)** - First color picker
-- **[SalHack](https://github.com/ionar2/spidermod)/[CreepySalHack](https://github.com/ionar2/spidermod)** - First AutoCrystal and AutoCrystalBypass, First Scaffold
+- **[SalHack](https://github.com/ionar2/spidermod)/[CreepySalHack]([https://github.com/ionar2/spidermod](https://github.com/CreepyOrb924/creepy-salhack))** - First AutoCrystal and AutoCrystalBypass, First Scaffold
 - **ezhik** - Cool helper x3
 - **[kqllqk](https://github.com/kqlqk/)** - First custom font loader
 - [**NoRules**](https://vk.com/nrclient) - Second custom font loader
@@ -47,10 +46,9 @@ Latest release: **b0.1.5**
 - **superblauberee27** - Base of the CsGoGui
 - **Phobos 1.9.0** - RangeVisualisator
 - **Phobos 1.3.1** - ShaderCharms -> Mode -> ITEMGLOW
-- **[rerhack.club](https://github.com/BigJayMuffinSkidsShit/RerHack.club)** - yes?
 - [**Halq**](https://github.com/Halqq) - Aurora :3
 - [**KamiBlue**](https://github.com/kami-blue/) - EyeFinder
-- **GishCode** - HudEditor -> LogoMode -> GishCode
+- **[GishCode](https://github.com/GishReloaded/Gish-Code-1.12.2)** - Logo -> LogoMode -> GishCode
 - [**Cattyn**](https://github.com/cattyngmd/) - Helps me with CatLua
 - [**Ferret**](https://github.com/cattyngmd/Ferret) - CatLua
 - [**XuluPlus**](https://discord.gg/cenXRGfvRY) - more shaders!
