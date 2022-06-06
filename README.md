@@ -58,3 +58,4 @@ Latest release: **b0.1.5**
 - **Europa** - meow?
 - [**Inertia**](https://inetriaclient.com) - ShaderCharms -> Mode -> InertiaOutline
 - **InGameAccountSwincher** - Microsoft auth
+- **[gs++](https://github.com/TechAle/gsplusplus)** - Scaffold
