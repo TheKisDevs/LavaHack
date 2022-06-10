@@ -26,6 +26,7 @@ Latest release: **b0.1.5**
 - [**lava_frai**](https://github.com/lavaFrai) - Developer
 
 ## Credits
+- **[mrnv](https://github.com/mr-nv)** - Future assets dump
 - **zTerrarxd_** - Music
 - **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console & NoRender -> Sway
 - **[Cubic](https://github.com/Cuubicc)** - UCILL (URL Class Instance Loader Library)
