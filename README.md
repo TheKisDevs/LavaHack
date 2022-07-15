@@ -25,6 +25,8 @@ Latest release: **b0.1.5**
 
 ## Credits
 - **[mrnv](https://github.com/mr-nv)** - Future assets dump
+- **Skillnoob_/[Sync](https://discord.gg/CpUReYwUCA)** - Helps with CharmsRewrite
+- **[ya-ilya](https://github.com/ya-ilya)** - Helps with socket API
 - **zTerrarxd_** - Music
 - **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console & NoRender -> Sway
 - **[Cubic](https://github.com/Cuubicc)** - UCILL (URL Class Instance Loader Library)
