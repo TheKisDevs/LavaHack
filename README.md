@@ -19,7 +19,6 @@ Latest release: **b0.1.5**
 ## Staff
 - [**\_kisman_**](https://github.com/kisman2000) - Creator and Lead Developer
 - [**Cubic**](https://github.com/Cuubicc) - Second Lead Developer
-- [**Skarlord99**](https://github.com/Skarlord991) - Developer
 - [**Gentleman**](https://github.com/GentlemanMC) - Developer
 - [**lava_frai**](https://github.com/lavaFrai) - Developer
 
