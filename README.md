@@ -23,6 +23,7 @@ Latest release: **b0.1.5**
 - [**lava_frai**](https://github.com/lavaFrai) - Developer
 
 ## Credits
+- **[maywr](httis://github.com/maywr)** - Helps with loader <3
 - **[mrnv](https://github.com/mr-nv)** - Future assets dump
 - **Skillnoob_/[Sync](https://discord.gg/CpUReYwUCA)** - Helps with CharmsRewrite
 - **[ya-ilya](https://github.com/ya-ilya)** - Helps with socket API
