@@ -24,6 +24,7 @@ Latest release: **b0.1.5**
 
 ## Credits
 - **[maywr](https://github.com/maywr)** - Helps with loader <3
+- **[noatmc](https://youtu.be/IVFZJwn4fWA )** - https://youtu.be/IVFZJwn4fWA
 - **[mrnv](https://github.com/mr-nv)** - Future assets dump
 - **Skillnoob_/[Sync](https://discord.gg/CpUReYwUCA)** - Helps with CharmsRewrite
 - **[ya-ilya](https://github.com/ya-ilya)** - Helps with socket API
