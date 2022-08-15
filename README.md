@@ -24,7 +24,7 @@ Latest release: **b0.1.5**
 
 ## Credits
 - **[maywr](https://github.com/maywr)** - Helps with loader <3
-- **[noatmc](https://youtu.be/IVFZJwn4fWA )** - https://youtu.be/IVFZJwn4fWA
+- **[noatmc](https://youtu.be/IVFZJwn4fWA)** - https://youtu.be/IVFZJwn4fWA
 - **[mrnv](https://github.com/mr-nv)** - Future assets dump
 - **Skillnoob_/[Sync](https://discord.gg/CpUReYwUCA)** - Helps with CharmsRewrite
 - **[ya-ilya](https://github.com/ya-ilya)** - Helps with socket API
@@ -35,29 +35,21 @@ Latest release: **b0.1.5**
 - **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2
 - **[BloomWare](https://github.com/TheBreakery/Bloomware)** - BetterScreenshot & DDOSModule(StopWar from BloomWare)
 - **[Konas](https://konasclient.com/)** - HoleESP -> Mode -> Konas
-- **Vega** - Jesus -> Matrix/Solid & VegaGui
+- **Vega** - Jesus -> Matrix/Solid
 - **Kshk** - Cool helper x2
 - **salam4ik** - JumpCircle :>
 - **Fendy** - BowExploit
-- **[Neko+](https://github.com/kisman2000/NekoPlus)** - First color picker
-- **[SalHack](https://github.com/ionar2/spidermod)/[CreepySalHack](https://github.com/CreepyOrb924/creepy-salhack)** - First AutoCrystal and AutoCrystalBypass, First Scaffold
 - **ezhik** - Cool helper x3
-- **[kqllqk](https://github.com/kqlqk/)** - First custom font loader
-- [**NoRules**](https://vk.com/nrclient) - Second custom font loader
-- **sedza** - Second logo of the client
+- **[kqllqk](https://github.com/kqlqk/)** - Font renderer
 - **superblauberee27** - Base of the CsGoGui
-- **Phobos 1.9.0** - RangeVisualisator
 - **Phobos 1.3.1** - ShaderCharms -> Mode -> ITEMGLOW
-- [**Halq**](https://github.com/Halqq) - Aurora :3
 - [**KamiBlue**](https://github.com/kami-blue/) - EyeFinder
 - **[GishCode](https://github.com/GishReloaded/Gish-Code-1.12.2)** - Logo -> LogoMode -> GishCode
 - [**Cattyn**](https://github.com/cattyngmd/) - Helps me with CatLua
 - [**Ferret**](https://github.com/cattyngmd/Ferret) - CatLua
 - [**XuluPlus**](https://discord.gg/cenXRGfvRY) - more shaders!
 - [**FDPClient**](https://github.com/UnlegitMC/FDPClient) - ShaderCharms -> Mode -> GLOW
-- **Krimk** - First state of third logo of the client
+- **Krimk** - Helps with logo
 - **zPrestige_** - 5b5t teleport exploit
-- **Europa** - meow?
 - [**Inertia**](https://inetriaclient.com) - ShaderCharms -> Mode -> InertiaOutline
 - **InGameAccountSwincher** - Microsoft auth
-- **[gs++](https://github.com/TechAle/gsplusplus)** - Scaffold
