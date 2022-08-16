@@ -21,6 +21,7 @@ Latest release: **b0.1.5**
 - [**Cubic**](https://github.com/Cuubicc) - Second Lead Developer
 - [**Gentleman**](https://github.com/GentlemanMC) - Developer
 - [**lava_frai**](https://github.com/lavaFrai) - Developer
+- [**noat**](https://github.com/noatmc) - Developer
 
 ## Credits
 - **[maywr](https://github.com/maywr)** - Helps with loader <3
