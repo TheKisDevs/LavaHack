@@ -3,7 +3,7 @@
 # 🛠️ LavaHack
 LavaHack aka kisman.cc aka kidman.club aka TheKisDevs aka TheClient
 
-LavaHack is a private minecraft utility mod for forge 1.12.2 made by [TheKisDevs inc](https://github.com/TheKisDevs/).
+LavaHack is a paid minecraft forge utility mod made by [TheKisDevs inc](https://github.com/TheKisDevs/).
 
 [Discord Server](https://discord.gg/NNn7WXfkNB)
 
@@ -11,17 +11,20 @@ Current version: **b0.1.6.5 beta**
 
 Latest release: **b0.1.5**
 
+Version of minecraft: **1.12.2**
+
 ## How to get TheClient
 1) Join [Discord](https://discord.gg/NNn7WXfkNB)
 2) Check `#how-to-get-client` channel
 3) Get TheClient!
 
 ## Staff
-- [**\_kisman_**](https://github.com/kisman2000) - Creator and Lead Developer
-- [**Cubic**](https://github.com/Cuubicc) - Second Lead Developer
-- [**Gentleman**](https://github.com/GentlemanMC) - Developer
-- [**lava_frai**](https://github.com/lavaFrai) - Developer
-- [**noat**](https://github.com/noatmc) - Developer
+- [**\_kisman_**](https://github.com/kisman2000) - Creator and Lead Developer of paid version
+- [**Cubic**](https://github.com/Cuubicc) - Second Lead Developer of paid version
+- [**Gentleman**](https://github.com/GentlemanMC) - Developer of paid version
+- [**lava_frai**](https://github.com/lavaFrai) - Developer of paid version
+- [**noat**](https://github.com/noatmc) - Developer of paid version
+- [**KotoPushka**]() - Developer of public version
 
 ## Credits
 - **[maywr](https://github.com/maywr)** - Helps with loader <3
