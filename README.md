@@ -24,7 +24,7 @@ Version of minecraft: **1.12.2**
 - [**Gentleman**](https://github.com/GentlemanMC) - Developer of paid version
 - [**lava_frai**](https://github.com/lavaFrai) - Developer of paid version
 - [**noat**](https://github.com/noatmc) - Developer of paid version
-- [**KotoPushka**]() - Developer of public version
+- [**KotoPushka**](https://github.com/kotopushka12) - Developer of public version
 
 ## Credits
 - **[maywr](https://github.com/maywr)** - Helps with loader <3
