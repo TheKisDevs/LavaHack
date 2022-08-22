@@ -56,4 +56,4 @@ Version of minecraft: **1.12.2**
 - **Krimk** - Helps with logo
 - **zPrestige_** - 5b5t teleport exploit
 - [**Inertia**](https://inetriaclient.com) - ShaderCharms -> Mode -> InertiaOutline
-- **InGameAccountSwincher** - Microsoft auth
+- [**InGameAccountSwitcher**](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) - Microsoft auth
