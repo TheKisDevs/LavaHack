@@ -24,7 +24,7 @@ Version of minecraft: **1.12.2**
 - [**Gentleman**](https://github.com/GentlemanMC) - Developer of paid version
 - [**lava_frai**](https://github.com/lavaFrai) - Developer of paid version
 - [**noat**](https://github.com/noatmc) - Developer of paid version
-- [**KotoPushka**]() - Developer of public version
+- [**KotoPushka**](https://github.com/kotopushka12) - Developer of public version
 
 ## Credits
 - **[maywr](https://github.com/maywr)** - Helps with loader <3
@@ -45,7 +45,7 @@ Version of minecraft: **1.12.2**
 - **Fendy** - BowExploit
 - **ezhik** - Cool helper x3
 - **[kqllqk](https://github.com/kqlqk/)** - Font renderer
-- **superblauberee27** - Base of the CsGoGui
+- [**superblaubeere27**](https://github.com/superblaubeere27) - Base of the CsGoGui
 - **Phobos 1.3.1** - ShaderCharms -> Mode -> ITEMGLOW
 - [**KamiBlue**](https://github.com/kami-blue/) - EyeFinder
 - **[GishCode](https://github.com/GishReloaded/Gish-Code-1.12.2)** - Logo -> LogoMode -> GishCode
@@ -56,4 +56,4 @@ Version of minecraft: **1.12.2**
 - **Krimk** - Helps with logo
 - **zPrestige_** - 5b5t teleport exploit
 - [**Inertia**](https://inetriaclient.com) - ShaderCharms -> Mode -> InertiaOutline
-- **InGameAccountSwincher** - Microsoft auth
+- [**InGameAccountSwitcher**](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) - Microsoft auth
