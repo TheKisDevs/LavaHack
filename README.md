@@ -45,7 +45,7 @@ Version of minecraft: **1.12.2**
 - **Fendy** - BowExploit
 - **ezhik** - Cool helper x3
 - **[kqllqk](https://github.com/kqlqk/)** - Font renderer
-- **superblauberee27** - Base of the CsGoGui
+- [**superblaubeere27**](https://github.com/superblaubeere27) - Base of the CsGoGui
 - **Phobos 1.3.1** - ShaderCharms -> Mode -> ITEMGLOW
 - [**KamiBlue**](https://github.com/kami-blue/) - EyeFinder
 - **[GishCode](https://github.com/GishReloaded/Gish-Code-1.12.2)** - Logo -> LogoMode -> GishCode
