@@ -36,7 +36,7 @@ Version of minecraft: **1.12.2**
 - **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console & NoRender -> Sway
 - **[Cubic](https://github.com/Cuubicc)** - Some libs
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
-- **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2
+- **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - ShaderCharms -> Mode -> Outline2 and movable renderer
 - **[BloomWare](https://github.com/TheBreakery/Bloomware)** - BetterScreenshot & DDOSModule(StopWar from BloomWare)
 - **[Konas](https://konasclient.com/)** - HoleESP -> Mode -> Konas
 - **Vega** - Jesus -> Matrix/Solid
