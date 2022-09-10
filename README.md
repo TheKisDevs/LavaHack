@@ -27,6 +27,7 @@ Version of minecraft: **1.12.2**
 - [**KotoPushka**](https://github.com/kotopushka12) - Developer of public version
 
 ## Credits
+- **Thnks_CJ/[Sync](https://discord.gg/CpUReYwUCA)** - gave me host <3
 - **[maywr](https://github.com/maywr)** - Helps with loader <3
 - **[noatmc](https://youtu.be/IVFZJwn4fWA)** - https://youtu.be/IVFZJwn4fWA
 - **[mrnv](https://github.com/mr-nv)** - Future assets dump
