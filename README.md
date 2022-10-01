@@ -34,7 +34,7 @@ Version of minecraft: **1.12.2**
 - **[mrnv](https://github.com/mr-nv)** - Future assets dump
 - **Skillnoob_/[Sync](https://discord.gg/CpUReYwUCA)** - Helps with CharmsRewrite
 - **[ya-ilya](https://github.com/ya-ilya)** - Helps with socket API
-- **zTerrarxd_** - Music
+- **zTerrarxd_** - MP3 Player
 - **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console & NoRender -> Sway
 - **[Cubic](https://github.com/Cuubicc)** - Some libs
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
