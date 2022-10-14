@@ -7,9 +7,9 @@ LavaHack is a paid minecraft forge utility mod made by [TheKisDevs inc](https://
 
 [Discord Server](https://discord.gg/NNn7WXfkNB)
 
-Current version: **b0.1.6.5-7**
+Current version: **b0.1.6.5-8**
 
-Latest release: **b0.1.6.5-6**
+Latest release: **b0.1.6.5-7**
 
 Version of minecraft: **1.12.2**
 
@@ -19,12 +19,12 @@ Version of minecraft: **1.12.2**
 3) Get TheClient!
 
 ## Staff
-- [**\_kisman_**](https://github.com/kisman2000) - Creator and Lead Developer of paid version
-- [**Cubic**](https://github.com/Cuubicc) - Second Lead Developer of paid version
-- [**Gentleman**](https://github.com/GentlemanMC) - Developer of paid version
-- [**lava_frai**](https://github.com/lavaFrai) - Developer of paid version
+- [**\_kisman_**](https://github.com/kisman2000) - Creator and Lead Developer of the paid version
+- [**Cubic**](https://github.com/Cuubicc) - Second Lead Developer of the paid version
+- [**Gentleman**](https://github.com/GentlemanMC) - Developer of the paid version
+- [**lava_frai**](https://github.com/lavaFrai) - Developer of the paid version
 - [**noat**](https://github.com/noatmc) - Developer of paid version
-- [**KotoPushka**](https://github.com/kotopushka12) - Developer of public version
+- [**KotoPushka**](https://github.com/kotopushka12) - Developer of the public version
 
 ## Credits
 - **Hunter_** - gave me some ideas like CrystalFiller or AntiFuture
