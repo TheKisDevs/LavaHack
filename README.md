@@ -15,6 +15,7 @@ Version of minecraft: **1.12.2**
 
 ## How to buy LavaHack
 We are selling LavaHack only for russians(cuz we havent payment methods)
+
 If you are russian, join discord server, create ticket in `create-ticket` channel and tell me that you wanna to buy it
 
 ## Staff
