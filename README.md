@@ -14,7 +14,7 @@ Latest release: **b0.1.6.5-7**
 Version of minecraft: **1.12.2**
 
 ## How to buy LavaHack
-We are selling LavaHack only for russians(cuz we havent payment methods)
+We are selling LavaHack only for russians(cuz we dont have payment methods)
 
 If you are russian, join discord server, create ticket in `create-ticket` channel and tell me that you wanna to buy it
 
@@ -29,25 +29,23 @@ If you are russian, join discord server, create ticket in `create-ticket` channe
 ## Credits
 - **Hunter_** - gave me some ideas like CrystalFiller or AntiFuture
 - **Thnks_CJ/[Sync](https://discord.gg/CpUReYwUCA)** - gave me host <3
-- **[maywr](https://github.com/maywr)** - Helps with loader <3
+- **[maywr](https://github.com/maywr)** - Helpd with loader <3
 - **[noatmc](https://youtu.be/IVFZJwn4fWA)** - https://youtu.be/IVFZJwn4fWA
 - **[mrnv](https://github.com/mr-nv)** - Future assets dump
-- **Skillnoob_/[Sync](https://discord.gg/CpUReYwUCA)** - Helps with caps of CharmsRewrite
-- **[ya-ilya](https://github.com/ya-ilya)** - Helps with socket API
+- **Skillnoob_/[Sync](https://discord.gg/CpUReYwUCA)** - Helped with caps of CharmsRewrite
+- **[ya-ilya](https://github.com/ya-ilya)** - Helped with socket API
 - **zTerrarxd_** - MP3 Player
 - **[gerald0ms](https://github.com/gerald)** - AntiRegear & Console & NoRender -> Sway
-- **[Cubic](https://github.com/Cuubicc)** - another libs
 - **[StupitDog](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A)** - Guide of the client base
 - **[TrollHack/Luna5ama](https://github.com/Luna5ama/TrollHack)** - outline shader, base of slide ca renderer
 - **[BloomWare](https://github.com/TheBreakery/Bloomware)** - BetterScreenshot
 - **Vega** - Jesus -> Matrix/Solid
 - **salam4ik** - JumpCircle :>
-- **[kqllqk](https://github.com/kqlqk/)** - Font renderer
+- **[kqllqk](https://github.com/kqlqk/)** - helped with font renderer
 - [**superblaubeere27**](https://github.com/superblaubeere27) - Base of the CsGoGui
 - **3arthH4ck** - itemglow shader
-- [**KamiBlue**](https://github.com/kami-blue/) - EyeFinder
 - **[GishCode](https://github.com/GishReloaded/Gish-Code-1.12.2)** - Logo -> LogoMode -> GishCode
-- [**Cattyn**](https://github.com/cattyngmd/) - Helps me with CatLua
+- [**Cattyn**](https://github.com/cattyngmd/) - Helped me with CatLua
 - [**Ferret**](https://github.com/cattyngmd/Ferret) - CatLua
 - [**XuluPlus**](https://discord.gg/cenXRGfvRY) - a lot of shaders
 - [**FDPClient**](https://github.com/UnlegitMC/FDPClient) - glow shader
