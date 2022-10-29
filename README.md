@@ -53,3 +53,4 @@ If you are russian, join discord server, create ticket in `create-ticket` channe
 - **zPrestige_** - 5b5t teleport exploit
 - [**Inertia**](https://inetriaclient.com) - outline shader
 - [**InGameAccountSwitcher**](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) - Microsoft auth
+- [**ViaForge**](https://github.com/RejectedVia/ViaForge) - viaforge implementation
