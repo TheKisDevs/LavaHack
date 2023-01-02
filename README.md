@@ -2,8 +2,8 @@
 
 LavaHack aka kisman.cc aka kidman.club aka TheKisDevs aka TheClient is a paid minecraft forge utility mod made by [**TheKisDevs inc**](https://github.com/TheKisDevs).
 
-- Current version: **b0.1.6.5-8**
-- Latest release: **b0.1.6.5-7**
+- Current version: **b0.1.6.5-9**
+- Latest release: **b0.1.6.5-8**
 - Version of minecraft: **1.12.2**
 
 Join the discord server for more: [**Discord Server**](https://discord.gg/NNn7WXfkNB)
@@ -46,7 +46,8 @@ If you are russian, join the [discord server](https://discord.gg/NNn7WXfkNB), cr
 - [**XuluPlus**](https://discord.gg/cenXRGfvRY) - A lot of shaders
 - [**FDPClient**](https://github.com/SkidderMC/FDPClient) - Glow shader
 - **Krimk** - Helped with the logo
-- **zPrestige_** - 5b5t teleport exploit
+- **[zPrestige_](https://github.com/RealzPrestige)** - 5b5t teleport exploit
+- **[zPrestige_](https://github.com/RealzPrestige)/[Ruby](https://github.com/RealzPrestige/Ruby)** - Helped with improving my shader/render systems
 - [**Inertia**](https://inetriaclient.com) - Outline shader
 - [**InGameAccountSwitcher**](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) - Microsoft auth
 - [**ViaForge**](https://github.com/RejectedVia/ViaForge) - ViaForge implementation
