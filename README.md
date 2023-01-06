@@ -18,7 +18,7 @@ If you are russian, join the [discord server](https://discord.gg/NNn7WXfkNB), cr
 - [**Cubic**](https://github.com/Cuubicc) - Second Lead Developer of the paid version
 - [**Gentleman**](https://github.com/GentlemanMC) - Developer of the paid version
 - [**lava_frai**](https://github.com/lavaFrai) - Developer of the paid version
-- [**noat**](https://github.com/noatmc) - Developer of paid version
+- [**noat**](https://github.com/noatmc) - Developer of the paid version
 - [**\_KotoPushka_**](https://github.com/kotopushka12) - Developer of the public version
 
 ## Credits
@@ -30,7 +30,7 @@ If you are russian, join the [discord server](https://discord.gg/NNn7WXfkNB), cr
 - [**mrnv**](https://github.com/mr-nv) - Future assets dump
 - [**Skillnoob_**](https://github.com/Skillnoob)/[**Sync**](https://discord.gg/TYAT6n4gN6) - Helped with caps of CharmsRewrite
 - [**ya-ilya**](https://github.com/ya-ilya) - Helped with socket API
-- **zTerrarxd_** - MP3 Player
+- **zTerrarxd_** - MP3 Player API
 - [**gerald0mc**](https://github.com/gerald0mc) - AntiRegear & Console & NoRender -> Sway
 - [**StupitDog**](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A) - Guide of the client base
 - [**Luna5ama**](https://github.com/Luna5ama)/[**TrollHack**](https://github.com/Luna5ama/TrollHack) - Outline shader, base of slide ca renderer
