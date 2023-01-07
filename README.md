@@ -2,8 +2,8 @@
 
 LavaHack aka kisman.cc aka kidman.club aka TheKisDevs aka TheClient is a paid minecraft forge utility mod made by [**TheKisDevs inc**](https://github.com/TheKisDevs).
 
-- Current version: **b0.1.6.5-9**
-- Latest release: **b0.1.6.5-8**
+- Current version: **b0.1.7**
+- Latest release: **b0.1.6.5-9**
 - Version of minecraft: **1.12.2**
 
 Join the discord server for more details: [**Discord Server**](https://discord.gg/NNn7WXfkNB)
