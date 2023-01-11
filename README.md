@@ -22,6 +22,7 @@ If you are russian, join the [discord server](https://discord.gg/NNn7WXfkNB), cr
 - [**\_KotoPushka_**](https://github.com/kotopushka12) - Developer of the public version
 
 ## Credits
+- **AI Improvements Mod** - a bit of our minecraft optimization
 - **dazed** - helped me with new JDA
 - **Hunter_** - Gave me some ideas like CrystalFiller or AntiFuture
 - [**Thnks_CJ**](https://github.com/ThnksCJ)/[**Sync**](https://discord.gg/TYAT6n4gN6) - Gave me host <3
