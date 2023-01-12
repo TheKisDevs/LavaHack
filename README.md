@@ -11,7 +11,7 @@ Join the [**Discord Server**](https://discord.gg/NNn7WXfkNB) for more details
 ## How to buy LavaHack
 We are selling LavaHack only for russians (cuz we dont have payment methods)
 
-If you are russian, join the [discord server](https://discord.gg/NNn7WXfkNB), create ticket in `ticket` channel and tell me that you wanna to buy it
+If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB), create ticket in `ticket` channel and tell me that you wanna to buy it
 
 ## Staff
 - [**\_kisman_**](https://github.com/kisman2000) - Founder and Lead Developer of the paid version
