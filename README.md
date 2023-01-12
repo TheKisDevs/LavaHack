@@ -6,7 +6,7 @@ LavaHack aka kisman.cc aka kidman.club aka TheKisDevs aka TheClient is a paid mi
 - Latest release: **b0.1.6.5-9**
 - Version of minecraft: **1.12.2**
 
-Join the discord server for more details: [**Discord Server**](https://discord.gg/NNn7WXfkNB)
+Join the [**Discord Server**](https://discord.gg/NNn7WXfkNB) for more details
 
 ## How to buy LavaHack
 We are selling LavaHack only for russians (cuz we dont have payment methods)
