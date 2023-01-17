@@ -23,6 +23,7 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 
 ## Credits
 - **AI Improvements Mod** - a bit of our minecraft optimization
+- **[Zane](https://github.com/Zane2b2t)/GrassWare** - gradient shader
 - **dazed** - helped me with new JDA
 - **Hunter_** - Gave me some ideas like CrystalFiller or AntiFuture
 - [**Thnks_CJ**](https://github.com/ThnksCJ)/[**Sync**](https://discord.gg/TYAT6n4gN6) - Gave me host <3
