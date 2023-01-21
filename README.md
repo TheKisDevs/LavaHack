@@ -1,6 +1,6 @@
 <h1 align="center">🛠️ LavaHack</h1>
 
-LavaHack aka kisman.cc aka kidman.club aka TheKisDevs aka TheClient is a paid minecraft forge utility mod made by [**TheKisDevs inc**](https://github.com/TheKisDevs).
+**LavaHack** is a paid minecraft forge utility mod made by [**TheKisDevs inc**](https://github.com/TheKisDevs).
 
 - Current version: **b0.1.7**
 - Latest release: **b0.1.6.5-9**
@@ -11,6 +11,8 @@ Join the [**Discord Server**](https://discord.gg/NNn7WXfkNB) for more details
 ## How to buy LavaHack
 We are selling LavaHack only for russians (cuz we dont have payment methods)
 
+- Cost of LavaHack: **18$**
+
 If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB), create ticket in `ticket` channel and tell me that you wanna to buy it
 
 ## Staff
@@ -20,6 +22,12 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 - [**lava_frai**](https://github.com/lavaFrai) - Developer of the paid version
 - [**noat**](https://github.com/noatmc) - Developer of the paid version
 - [**\_KotoPushka_**](https://github.com/kotopushka12) - Developer of the public version
+
+## Special thanks
+- **PunCakeCat** - for contributing **LavaHack**
+- **AI_24** - for reviews of both versions
+- **KiLAB** - for CCO of **LavaHack**
+- **Sync Development** - for a lot of ideas and they are just cool guys
 
 ## Credits
 - **AI Improvements Mod** - a bit of our minecraft optimization
