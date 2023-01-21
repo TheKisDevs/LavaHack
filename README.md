@@ -29,6 +29,7 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 - **KiLAB** - for CCO of **LavaHack**
 - **Sync Development** - for a lot of ideas and they are just cool guys
 - **ya_ilya** - for helping with loader
+- **maywr** - for helping with loader and a few other things
 
 ## Credits
 - **AI Improvements Mod** - a bit of our minecraft optimization
