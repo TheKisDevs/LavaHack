@@ -28,6 +28,7 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 - **AI_24** - for reviews of both versions
 - **KiLAB** - for CCO of **LavaHack**
 - **Sync Development** - for a lot of ideas and they are just cool guys
+- **ya_ilya** - for helping with loader
 
 ## Credits
 - **AI Improvements Mod** - a bit of our minecraft optimization
