@@ -25,12 +25,12 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 - **AI Improvements Mod** - a bit of our minecraft optimization
 - **[Zane](https://github.com/Zane2b2t)/GrassWare** - gradient shader
 - **dazed** - helped me with new JDA
-- **Hunter_** - Gave me some ideas like CrystalFiller or AntiFuture
+- **Hunter_** - Gave me some ideas like CrystalFiller
 - [**Thnks_CJ**](https://github.com/ThnksCJ)/[**Sync**](https://discord.gg/TYAT6n4gN6) - Gave me host <3
 - [**maywr**](https://github.com/maywr) - Helped with loader <3
 - [**noatmc**](https://youtu.be/IVFZJwn4fWA) - https://youtu.be/IVFZJwn4fWA
 - [**mrnv**](https://github.com/mr-nv) - Future assets dump
-- [**Skillnoob_**](https://github.com/Skillnoob)/[**Sync**](https://discord.gg/TYAT6n4gN6) - Helped with caps of CharmsRewrite
+- [**Skillnoob_**](https://github.com/Skillnoob)/[**Sync**](https://discord.gg/TYAT6n4gN6) - Helped with caps of CharmsRewrite, idea of AntiQuit module
 - [**ya-ilya**](https://github.com/ya-ilya) - Helped with socket API
 - **zTerrarxd_** - MP3 Player API
 - [**gerald0mc**](https://github.com/gerald0mc) - AntiRegear & Console & NoRender -> Sway
@@ -48,8 +48,7 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 - [**XuluPlus**](https://discord.gg/cenXRGfvRY) - A lot of shaders
 - [**FDPClient**](https://github.com/SkidderMC/FDPClient) - Glow shader
 - **Krimk** - Helped with the logo
-- **[zPrestige_](https://github.com/RealzPrestige)** - 5b5t teleport exploit
-- **[zPrestige_](https://github.com/RealzPrestige)/[Ruby](https://github.com/RealzPrestige/Ruby)** - Helped with improving my shader/render systems
+- **[zPrestige_](https://github.com/RealzPrestige)** - 5b5t teleport exploit, helped with improving my shader/render systems
 - [**Inertia**](https://inetriaclient.com) - Outline shader
-- [**InGameAccountSwitcher**](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) - Microsoft auth
+- [**In Game Account Switcher**](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) - Microsoft auth
 - [**ViaForge**](https://github.com/RejectedVia/ViaForge) - ViaForge implementation
