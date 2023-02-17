@@ -32,6 +32,7 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 - **maywr** - for helping with loader and a few other things
 
 ## Credits
+- **JessSystemV** - Helped with loader <3
 - **AI Improvements Mod** - a bit of our minecraft optimization
 - **[Zane](https://github.com/Zane2b2t)/GrassWare** - gradient shader
 - **dazed** - helped me with new JDA
