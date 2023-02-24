@@ -46,12 +46,12 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 - **zTerrarxd_** - MP3 Player API
 - [**gerald0mc**](https://github.com/gerald0mc) - AntiRegear & Console & NoRender -> Sway
 - [**StupitDog**](https://www.youtube.com/channel/UCBrAbDKYkJJR0bimvBvbw4A) - Guide of the client base
-- [**Luna5ama**](https://github.com/Luna5ama)/[**TrollHack**](https://github.com/Luna5ama/TrollHack) - Outline shader, base of slide ca renderer
+- [**Luna5ama**](https://github.com/Luna5ama)/[**TrollHack**](https://github.com/Luna5ama/TrollHack) - idea of slide renderer
 - [**BloomWare**](https://github.com/TheBreakery/Bloomware-Lite) - BetterScreenshot
 - **Vega** - Jesus -> Matrix/Solid
 - **salam4ik** - JumpCircle :>
 - [**kqllqk**](https://github.com/kqlqk) - Helped with font renderer
-- [**superblaubeere27**](https://github.com/superblaubeere27) - Base of the CsGoGui
+- [**superblaubeere27**](https://github.com/superblaubeere27) - Base of the csgo gui
 - [**3arthh4ck**](https://github.com/3arthqu4ke/3arthh4ck) - ItemGlow shader
 - [**GishCode**](https://github.com/GishReloaded/Gish-Code-1.12.2) - Logo -> LogoMode -> GishCode
 - [**Cattyn**](https://github.com/cattyngmd/) - Helped me with CatLua
@@ -60,6 +60,5 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 - [**FDPClient**](https://github.com/SkidderMC/FDPClient) - Glow shader
 - **Krimk** - Helped with the logo
 - **[zPrestige_](https://github.com/RealzPrestige)** - 5b5t teleport exploit, helped with improving my shader/render systems
-- [**Inertia**](https://inetriaclient.com) - Outline shader
 - [**In Game Account Switcher**](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) - Microsoft auth
 - [**ViaForge**](https://github.com/RejectedVia/ViaForge) - ViaForge implementation
