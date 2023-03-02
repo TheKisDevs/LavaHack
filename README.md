@@ -18,6 +18,7 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 ## Staff
 - [**\_kisman_**](https://github.com/kisman2000) - Founder and Lead Developer of the paid version
 - [**Cubic**](https://github.com/Cuubicc) - Second Lead Developer of the paid version
+- [**AI_24**](https://www.youtube.com/channel/UCNjBsY8LRhmrvN64tr0SpIA) - Developer of the paid version
 - [**Gentleman**](https://github.com/GentlemanMC) - Developer of the paid version
 - [**lava_frai**](https://github.com/lavaFrai) - Developer of the paid version
 - [**noat**](https://github.com/noatmc) - Developer of the paid version
