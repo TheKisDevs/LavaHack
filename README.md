@@ -1,4 +1,4 @@
-**IMPORTANT NEWS: My main discord account with main server of LH got termed, my NEW discord is _kisman_#1763, NEW server of LH is https://discord.gg/FvhWJVbGKW**
+**IMPORTANT NEWS: My main discord account with main server of LH got termed, my NEW discord is \_kisman_#1763, NEW server of LH is https://discord.gg/FvhWJVbGKW**
 
 <h1 align="center">🛠️ LavaHack</h1>
 
