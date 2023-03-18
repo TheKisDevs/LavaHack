@@ -1,3 +1,5 @@
+**IMPORTANT NEWS: My main discord account with main server of LH got termed, my NEW discord is _kisman_#1763, NEW server of LH is https://discord.gg/FvhWJVbGKW**
+
 <h1 align="center">🛠️ LavaHack</h1>
 
 **LavaHack** is a paid minecraft forge utility mod made by [**TheKisDevs inc**](https://github.com/TheKisDevs).
@@ -6,7 +8,7 @@
 - Latest release: **b0.1.6.5-9**
 - Version of minecraft: **1.12.2**
 
-Join the [**Discord Server**](https://discord.gg/NNn7WXfkNB) for more details
+Join the [**Discord Server**](https://discord.gg/FvhWJVbGKW) for more details
 
 ## How to buy LavaHack
 We are selling LavaHack only for russians (cuz we dont have payment methods)
