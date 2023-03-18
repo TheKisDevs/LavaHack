@@ -63,3 +63,4 @@ If you are russian, join the [**Discord Server**](https://discord.gg/NNn7WXfkNB)
 - **[zPrestige_](https://github.com/RealzPrestige)** - 5b5t teleport exploit, helped with improving my shader/render systems
 - [**In Game Account Switcher**](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher) - Microsoft auth
 - [**ViaForge**](https://github.com/RejectedVia/ViaForge) - ViaForge implementation
+- **Baritone** - 20$ optimization of BlockPos methods(BetterBlockPos)
